@@ -1,6 +1,6 @@
 1.  Arithmetic Operators     +, /, *, -
-    Assignment Operators    =
-    Comparison Operators    <=, >=, <, >
+    Assignment Operators    =, +=, -=, /=, *=
+    Comparison Operators    <=, >=, <, >, ==, ===, !==
     Logical Operators   ||, &&, !
     Bitwise Operators   &, |, <<, >>, >>>, ~
 
